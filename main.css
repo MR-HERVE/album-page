@@ -5,8 +5,8 @@ body{
 #web_card{
      width: 1000px;
      background-color: azure;
-     text-align: right;
-     margin-left: 200px;
+     text-align: center;
+     margin-left: 250px;
 }
 
 #photo-text{
