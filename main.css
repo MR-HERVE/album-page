@@ -11,6 +11,7 @@ body{
      border-color: cornflowerblue;
      border-width: 10px;
      border-style: groove;
+     border-radius: 30px;
 }
 
 #photo-text{
