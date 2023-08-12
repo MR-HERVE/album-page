@@ -6,6 +6,7 @@ body{
      width: 1000px;
      background-color: azure;
      text-align: right;
+     margin-left: 200px;
 }
 
 #photo-text{
@@ -24,4 +25,5 @@ body{
     font-style: italic;
     font-size: 20px;
     font-weight: 700px;
+    text-align: center;
 }
