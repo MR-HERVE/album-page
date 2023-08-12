@@ -1,3 +1,11 @@
-#album-description{
-    text-align: left;
+#web-description{
+    color: cadetblue;
+    font-size: 30px;
+}
+
+.photo-edit{
+    color: chartreuse;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 700px;
 }
