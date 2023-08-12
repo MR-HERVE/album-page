@@ -1,9 +1,10 @@
 body{
-    background-color: darkkhaki;
+    background-color: darkslategrey;
 }
 
 #web_card{
      width: 1000px;
+     height: 570px;
      background-color: azure;
      text-align: center;
      margin-left: 250px;
